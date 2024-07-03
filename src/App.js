@@ -30,7 +30,7 @@ const App = () => {
 
   return (
     <>
-    Topic: Islam V/S Sanatan
+    Topic: Enviromental Issues
 
     <div className="App" > 
       <Comment
